@@ -1,3 +1,6 @@
+// tinkercad: not working
+// arduino: working
+
 int pinA = 11;
 int pinB = 7;
 int pinC = 4;
