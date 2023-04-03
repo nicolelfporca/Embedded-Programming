@@ -1,3 +1,6 @@
+// tinkercad: working
+// arduino: not yet tried
+
 const int tempPin = A0;
 float reading, voltage, celcius, percent;
 
