@@ -1,3 +1,6 @@
+// tinkercad: working
+// arduino: not yet tried
+
 const int gas_input = A0;
 int gas = 0;
 const int led = 6;
