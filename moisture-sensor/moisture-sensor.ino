@@ -1,3 +1,6 @@
+// tinkercad: not yet tried
+// arduino: working
+
 int moistureValue;
 float moisture_percentage;
 
