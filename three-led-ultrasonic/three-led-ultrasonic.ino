@@ -1,3 +1,6 @@
+// tinkercad: working
+// arduino: working
+
 int trigger_pin = 3;
 int echo_pin = 2;
 int time, distance;
