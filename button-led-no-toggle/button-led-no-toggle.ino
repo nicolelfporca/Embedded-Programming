@@ -1,3 +1,6 @@
+// tinkercad: working
+// arduino: working
+
 int current;
 const byte led = 2;
 const byte button = 3;
