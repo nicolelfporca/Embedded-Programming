@@ -1,3 +1,6 @@
+// tinkercad: working
+// arduino: not yet tried
+
 #include<Keypad.h>
 #include<Adafruit_LiquidCrystal.h>
 #include<Wire.h>
