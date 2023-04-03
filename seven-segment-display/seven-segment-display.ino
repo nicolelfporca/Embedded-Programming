@@ -1,3 +1,6 @@
+// tinkercad: not working
+// arduino: working
+
 byte pin[] = {2,3,4,5,6,7,8,9};
 int number[10][8]= {
     // {E, D, C, DP, B, A, F, G}
