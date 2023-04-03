@@ -1,3 +1,6 @@
+// tinkercad: working
+// arduino: working
+
 byte const red = 10;
 byte const green = 9;
 byte const blue = 8;
