@@ -1,3 +1,6 @@
+// tinkercad: not working
+// arduino: not yet tried
+
 //HC-SR04
 const int trigPin = 13;
 const int echoPin2 = 12;
