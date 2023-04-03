@@ -1,3 +1,6 @@
+// tinkercad: not working
+// arduino: not working
+
 const byte led = 13;
 const byte sensorPin = 12;
 int sensor = 0;
