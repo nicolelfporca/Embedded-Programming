@@ -1,3 +1,6 @@
+// tinkercad: working
+// arduino: working
+
 int led = 4, button = 5;
 int mode = 0, old = 0, current;
 
