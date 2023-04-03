@@ -1,3 +1,6 @@
+// tinkercad: working
+// arduino: working
+
 const byte buzzer = 2;
 const byte ldr = A0;
 int ldrReading = 0;
