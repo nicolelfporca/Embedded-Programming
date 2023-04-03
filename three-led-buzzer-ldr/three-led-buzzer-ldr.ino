@@ -1,4 +1,6 @@
 // activity 2
+// tinkercad: working
+// arduino: working
 
 const int led1 = 2;
 const int led2 = 3;
