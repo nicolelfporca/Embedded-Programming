@@ -1,3 +1,6 @@
+// tinkercad: working
+// arduino: working
+
 #include <Servo.h>
 Servo servo;
 
