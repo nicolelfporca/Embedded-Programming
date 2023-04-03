@@ -1,3 +1,6 @@
+// tinkercad: working
+// arduino: working
+
 const int potentiometerPin = A0;
 const int ledPin = 6;
 int reading;
