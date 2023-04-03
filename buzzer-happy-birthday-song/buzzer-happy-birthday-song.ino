@@ -1,3 +1,6 @@
+// tinkercad: working
+// arduino: working
+
 int speakerPin = 8;
 int length = 28;//the number of notes
 char notes[] = "GGAGcB GGAGdc GGxecBA yyecdc";
