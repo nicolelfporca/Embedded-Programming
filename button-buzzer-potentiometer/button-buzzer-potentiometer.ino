@@ -1,3 +1,6 @@
+// tinkercad: working
+// arduino: working
+
 int mode = 0, old = 0, current;
 const byte buzzer = 2;
 const byte button = 3;
