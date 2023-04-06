@@ -25,7 +25,6 @@ const char* password = STAPSK;
 
 ESP8266WebServer server(80);
 
-
 void sendTemp() {
   String page = "<!DOCTYPE html>\n\n";
   page += "<meta http-equiv='refresh' content='";
